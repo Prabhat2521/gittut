@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+to the new
+to the new
+=======
+welcome
+welcome
+<<<<<<< HEAD
+>>>>>>> bugs
+To The New
+=======
+welcome
+>>>>>>> bugs
